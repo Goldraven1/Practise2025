@@ -1,0 +1,7 @@
+PyQt6
+PyQt6-Charts
+PyQt6-Fluent-Widgets[full]
+pandas
+openpyxl
+reportlab
+pytest
